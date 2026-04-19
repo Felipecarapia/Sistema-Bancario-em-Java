@@ -1,6 +1,7 @@
 package com.felipecarapia.bancojava.app;
-import com.felipecarapia.bancojava.service.Banco;
 import java.util.Scanner;
+
+import com.felipecarapia.bancojava.service.Banco;
 public class Main {
     public static void main(String[] args) {
         Scanner fp = new Scanner (System.in);
